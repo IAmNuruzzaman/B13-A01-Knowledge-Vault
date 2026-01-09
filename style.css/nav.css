@@ -48,9 +48,9 @@
 
 
 .top-header{
-    background-image: url(/image/hero-bg.png);
+    background-image: url(../image/hero-bg.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    /* background-size: cover; */
     
 }
 
