@@ -101,3 +101,141 @@
     margin: 0px;
     padding: 0px;
 }
+
+
+
+
+.card{
+    width: 274px;
+    padding: 24px;
+    text-align: center;
+}
+
+
+
+
+
+.Notes-fail{
+    margin: 0px 120px;
+    text-align: center;
+}
+
+.notes h1{
+    font-size: 48px;
+    font-weight: 800px;
+}
+
+.notes-cards{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.card{
+    box-shadow: 0 15px 40px rgba(201, 192, 192, 0.25);
+}
+
+
+
+/* ---------------------- */
+
+
+.brain{
+    display: flex;
+    margin: 120px;
+}
+
+
+
+.brain img{
+    margin-right: 60px;
+}
+
+
+.the-solution h3{
+    font-size: 16px;
+    font-weight: 600px;
+    color: #469165;
+}
+
+
+.the-solution h1{
+    font-size: 48px;
+    font-weight: 800px;
+    color: #001931;
+}
+
+
+
+.the-solution p{
+    font-size: 16px;
+     
+    color: #627382;
+}
+
+.the-solution h4{
+    font-weight: 700px;
+}
+
+
+
+
+/* ------------------------------------ */
+
+
+.ready-to-think{
+    margin: 120px;
+    text-align: center;
+    background-color: #F7F6F2;
+    padding: 40px 80px;
+}
+
+
+.ready-to-think h1{
+    font-size: 40px;
+    font-weight: 800px;
+}
+
+
+.ready-to-think p{
+    color: #627382;
+}
+
+
+.main-footer{
+background-color: #001931;
+
+}
+.footer{
+margin: 0px 120px;
+padding: 120px 0px 80px 0px;
+display: flex;
+justify-content: space-between;
+
+
+}
+
+
+.footer-icon{
+padding: 0px 15px;
+}
+
+
+
+.footer-icon i{
+    color: white;
+}
+
+
+.footer-text{
+    font-size: 20px;
+    font-weight: 600px;
+    color: #FFFFFF;
+}
+
+
+.main-footer p{
+    color: #FAFAFA;
+    text-align: center;
+    padding: 30px;
+}
